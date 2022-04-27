@@ -1,0 +1,46 @@
+#-------------------------------
+# General Site Settings
+title: ICElab
+logo: icelab_logo.png # You can add own logo.
+description: ICElab homepage
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: ICElab
+  image: logo.png
+  say-hello: Hello, <strong>ICE</strong>(<strong>I</strong>ntelligent <strong>C</strong>ommunication, <strong>C</strong>omputing, and <strong>E</strong>nergy) <strong>lab</strong> is looking for awesome undergraduate and graduate students.
+            
+  bio: 
+      If you are interested in <strong>intelligent computing</strong>, <strong>communications</strong>, <strong>IoT</strong> and <strong>smart grid networks</strong>, please join our lab as soon as possible!
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
