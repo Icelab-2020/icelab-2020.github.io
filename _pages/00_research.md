@@ -16,7 +16,7 @@ permalink: /00_research/
 
 |    |   <img width=500/>   |
 |:---|:---:|
-| ![smartgrid]({{site.baseurl}}/images/smartgrid.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">Smartgrid</span></b>  |
+| ![smartgrid]({{site.baseurl}}/images/smartgrid.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">Smart Grid</span></b>  |
 
 
 <div class = "smartgrid_">The smart grid is an intelligent power grid system that incorporates information and communication technology into the production, transportation and consumption processes of electricity and increases efficiency through interaction between suppliers and consumers.</div>
