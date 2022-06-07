@@ -34,8 +34,8 @@ permalink: /00_research/
 
 |    |   <img width=500/>   |
 |:---|:---:|
-| ![AI]({{site.baseurl}}/images/6g.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">AI (ML/DL)</span></b>  |
+| ![AI]({{site.baseurl}}/images/ai.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">AI (ML/DL)</span></b>  |
 
 
-<div class = "AI">Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals).</div>
+<div class = "AI">Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals)  Machine learning (ML), a branch of artificial intelligence (AI), is the answer to many of these challenges providing pragmatic solutions, which can entirely change the future of wireless network technologies.</div>
 
