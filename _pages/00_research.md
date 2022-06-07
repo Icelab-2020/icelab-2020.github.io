@@ -34,8 +34,8 @@ permalink: /00_research/
 
 |    |   <img width=500/>   |
 |:---|:---:|
-| ![6g]({{site.baseurl}}/images/6g.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">AI (ML/DL)</span></b>  |
+| ![AI]({{site.baseurl}}/images/6g.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">AI (ML/DL)</span></b>  |
 
 
-<div class = "6g_">In recent years, we have experienced a tremendous evolution of information and communication technology with major innovations in mobile networks. The wireless data rates have doubled every 18 months over the last three decades and the wireless terabit-per-second (Tbps) links will become a reality soon. To support current and emerging mobile services, we need to move to next generation network (beyond 5G).</div>
+<div class = "AI">Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals).</div>
 
