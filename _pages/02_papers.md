@@ -5,7 +5,7 @@ permalink: /02_papers/
 # image: 08.jpg
 ---
 ## International Journal
-* [J07] K. Park, M. Kim, L. Park, "NeuSaver: Neural Adaptive Power Consumption Optimization for Mobile Video Streaming," to appear in /IEEE Transactions on Mobile Computing/, 2022.
+* [J07] K. Park, M. Kim, L. Park, "NeuSaver: Neural Adaptive Power Consumption Optimization for Mobile Video Streaming," to appear in *IEEE Transactions on Mobile Computing*, 2022.
 
 * [J06] D. Kim, D. Kwon, L. Park, J. Kim, and S. Cho, "Multi-Scale LSTM-based Deep Learning for Very-Short-Term Photovoltaic Power Generation Forecasting in Smart City Energy Management," *IEEE Systems Journal*, vol. 15, no. 1, pp.346-354, March 2021. 
 
