@@ -11,4 +11,4 @@ tags:   대외활동
 참여 학생들은 퀄컴 샌디에이고 본사를 방문하여 커넥티드 지능형 엣지등 다양한 분야의 최신 기술을 배우고 미래의 혁신을 엿볼 수 있는 것은 물론, 퀄컴  임원이 참여한 가운데 직접 자신의 주제를 발표할 기회가 주어집니다.
 박희재 학생은 "5G IAB Network Optimization with RIS assisted UAV Communication"라는 주제를 발표했습니다.
 
-https://www.qualcomm.com/kr/snapdragoninsiders/qualcomm-it-tour
+<https://www.qualcomm.com/kr/snapdragoninsiders/qualcomm-it-tour>
