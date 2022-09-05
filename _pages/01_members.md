@@ -36,7 +36,9 @@ permalink: /01_members/
 |:---|:---|:---|:---|
 | ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">위성률(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Department of Industrial and Information Systems Engineering  <br> + **E-MAIL**: fbfbf1@naver.com | ![iot]({{site.baseurl}}/images/jk.jpg){: width="165" height="235"} |  <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Department of Computer Science and Engineering  <br> + **E-MAIL**: rlawndks0423@naver.com |
 
-
+|    |   |    |    |
+|:---|:---|:---|:---|
+| ![iot]({{site.baseurl}}/images/sh.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">소성현(Seongryool Wee)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Department of Industrial and Information Systems Engineering  <br> + **E-MAIL**: fbfbf1@naver.com | ![iot]({{site.baseurl}}/images/kh.jpg){: width="165" height="235"} |  <b><span style="font-size:250%">설기현(Juan Kim)</span></b><br><br> + Undergraduate course in CSE, SeoulTech   <br> + Department of Computer Science and Engineering  <br> + **E-MAIL**: rlawndks0423@naver.com |
 
 <!-- 
 |    |   |  <img width=225/>  |  <img width=225/>  |
