@@ -26,7 +26,7 @@ permalink: /01_members/
 
 |    |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/hj.jpg){: width="160"; height"195"} | <b><span style="font-size:200%">박희재(Heejae Park)</span></b><br><br> 2022.2: B.S. degree from Depart. of Computer Science and Engineering, SeoulTech <br> + 2022.3 - present: M.S. Students  <br> Department of Computer Science and Engineering  <br> **E-MAIL**:  prkhj98@naver.com |
+| ![iot]({{site.baseurl}}/images/hj.jpg){: width="160"; height"195"} | <b><span style="font-size:200%">박희재(Heejae Park)</span></b><br><br> 2022.2: B.S. degree from Depart. of Computer Science and Engineering, SeoulTech <br> 2022.3 - present: M.S. Students  <br> Department of Computer Science and Engineering  <br> **E-MAIL**:  prkhj98@naver.com |
 
 <hr style="border:2px solid gray">
 
