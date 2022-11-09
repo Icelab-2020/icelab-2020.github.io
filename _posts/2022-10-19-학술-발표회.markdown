@@ -2,7 +2,7 @@
 layout: post
 title:  International Conference on ICT Convergence 2022
 date:   2022-10-19 #15:01:35 +0300
-image:  summer_2021.jpg
+image:  prize.jpg
 tags:   학회
 ---
 
