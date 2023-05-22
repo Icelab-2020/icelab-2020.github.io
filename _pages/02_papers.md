@@ -5,7 +5,7 @@ permalink: /02_papers/
 # image: 08.jpg
 ---
 ## International Journal
-* [J08] T.H. Nguyen, and L. Park, "HAP-Assisted RSMA-Enabled Vehicular Edge Computing: A DRL-Based Optimization Framework," *Mathmatics*, vol. 11, no. 10, 2023.
+* [J08] T.-H. Nguyen, and L. Park, "HAP-Assisted RSMA-Enabled Vehicular Edge Computing: A DRL-Based Optimization Framework," *Mathematics*, vol. 11, no. 10, 2023.
 
 * [J07] K. Park, M. Kim, and L. Park, "NeuSaver: Neural Adaptive Power Consumption Optimization for Mobile Video Streaming," to appear in *IEEE Transactions on Mobile Computing*, 2022.
 
