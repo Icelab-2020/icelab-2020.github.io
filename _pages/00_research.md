@@ -13,6 +13,15 @@ permalink: /00_research/
 
 ***
 
+|    |   <img width=500/>   |
+|:---|:---:|
+| ![AI]({{site.baseurl}}/images/ai.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">AI (ML/DL)</span></b>  |
+
+
+<div class = "AI">Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals. Machine learning (ML) and Deep learning(DL), branch of AI, are the answer to change the future of wireless network technologies.</div>
+
+***
+
 
 |    |   <img width=500/>   |
 |:---|:---:|
@@ -29,12 +38,3 @@ permalink: /00_research/
 
 
 <div class = "6g_">In recent years, we have experienced a tremendous evolution of information and communication technology with major innovations in mobile networks. The wireless data rates have doubled every 18 months over the last three decades and the wireless terabit-per-second (Tbps) links will become a reality soon. To support current and emerging mobile services, we need to move to next generation network (beyond 5G).</div>
-
-***
-
-|    |   <img width=500/>   |
-|:---|:---:|
-| ![AI]({{site.baseurl}}/images/ai.jpg){: width="100%" height="100%"} | <b><span style="font-size:300%">AI (ML/DL)</span></b>  |
-
-
-<div class = "AI">Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals. Machine learning (ML) and Deep learning(DL), branch of AI, are the answer to change the future of wireless network technologies.</div>
