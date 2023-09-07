@@ -38,8 +38,8 @@ instagram-profile: artemsheludko_ # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: G-3CVSESK4YV # Add your identifier. For example UA-99631805-1.
-
+# google-analytics: G-3CVSESK4YV # Add your identifier. For example UA-99631805-1.
+gtag: G-3CVSESK4YV
 
 #-------------------------------
 # Newsletter
