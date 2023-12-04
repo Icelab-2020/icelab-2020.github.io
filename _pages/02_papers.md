@@ -5,7 +5,7 @@ permalink: /02_papers/
 # image: 08.jpg
 ---
 ## International Journal
-* [J08] T.-H. Nguyen, L.V. Nguyen, L.M.Dang, V.T. Hoang, L. Park, "TD3-based Optimization Framework for RSMA-enhanced UAV-aided Downlink Communications in Remote Areas," *Remote Sensing*, Vol. 15, No. 22, 5284, Nov. 2023.
+* [J09] T.-H. Nguyen, L.V. Nguyen, L.M.Dang, V.T. Hoang, L. Park, "TD3-based Optimization Framework for RSMA-enhanced UAV-aided Downlink Communications in Remote Areas," *Remote Sensing*, Vol. 15, No. 22, 5284, Nov. 2023.
 
 * [J08] T.-H. Nguyen, and L. Park, "HAP-Assisted RSMA-Enabled Vehicular Edge Computing: A DRL-Based Optimization Framework," *Mathematics*, vol. 11, no. 10, 2023.
 
