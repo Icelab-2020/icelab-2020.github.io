@@ -5,11 +5,13 @@ permalink: /02_papers/
 # image: 08.jpg
 ---
 ## International Journal
-* [J09] T.-H. Nguyen, L.V. Nguyen, L.M.Dang, V.T. Hoang, L. Park, "TD3-based Optimization Framework for RSMA-enhanced UAV-aided Downlink Communications in Remote Areas," *Remote Sensing*, Vol. 15, No. 22, 5284, Nov. 2023.
+* [J10] T.-H. Nguyen, T.P. Truong, A.-T. Tran, N.-N. Dao, L. Park, and S. Cho, "Intelligent Heterogeneous Aerial Edge Computing for Advanced 5G Access," *IEEE Transactions on Network Science and Engineering*, 2024.
 
-* [J08] T.-H. Nguyen, and L. Park, "HAP-Assisted RSMA-Enabled Vehicular Edge Computing: A DRL-Based Optimization Framework," *Mathematics*, vol. 11, no. 10, 2023.
+* [J09] T.-H. Nguyen, L.V. Nguyen, L.M. Dang, V.T. Hoang, and L. Park, "TD3-based Optimization Framework for RSMA-enhanced UAV-aided Downlink Communications in Remote Areas," *Remote Sensing*, vol. 15, no. 22, 5284, November 2023.
 
-* [J07] K. Park, M. Kim, and L. Park, "NeuSaver: Neural Adaptive Power Consumption Optimization for Mobile Video Streaming," to appear in *IEEE Transactions on Mobile Computing*, 2022.
+* [J08] T.-H. Nguyen, and L. Park, "HAP-Assisted RSMA-Enabled Vehicular Edge Computing: A DRL-Based Optimization Framework," *Mathematics*, vol. 11, no. 10, May 2023.
+
+* [J07] K. Park, M. Kim, and L. Park, "NeuSaver: Neural Adaptive Power Consumption Optimization for Mobile Video Streaming," *IEEE Transactions on Mobile Computing*, vol. 22, pp. 6633-6646, November 2023.
 
 * [J06] D. Kim, D. Kwon, L. Park, J. Kim, and S. Cho, "Multi-Scale LSTM-based Deep Learning for Very-Short-Term Photovoltaic Power Generation Forecasting in Smart City Energy Management," *IEEE Systems Journal*, vol. 15, no. 1, pp.346-354, March 2021. 
 
