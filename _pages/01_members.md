@@ -34,7 +34,7 @@ permalink: /01_members/
 
 |    |   |    |    |
 |:---|:---|:---|:---|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">송승엽(Seungyeop Song)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr | ![iot]({{site.baseurl}}/images/jk.jpg){: width="165" height="235"} |  <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: rlawndks0423@naver.com |
+| ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">송승엽(Seungyeop Song)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr | ![iot]({{site.baseurl}}/images/jk.jpg){: width="165" height="235"} |  <b><span style="font-size:250%">김주안(Juan Kim)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: rlawndks0423@naver.com |
 
 |    |   |    |    |
 |:---|:---|:---|:---|
