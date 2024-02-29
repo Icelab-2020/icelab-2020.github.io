@@ -22,7 +22,7 @@ permalink: /01_members/
 
 <hr style="border:2px solid gray">
 
-## M.S. Students
+## Ph.D. Students
 
 |    |    |
 |:---|:---|
@@ -39,6 +39,14 @@ permalink: /01_members/
 |    |   |    |    |
 |:---|:---|:---|:---|
 | ![iot]({{site.baseurl}}/images/sh.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">소성현(Seonghyeon So)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information Systems Engineering  <br> **E-MAIL**: thtjdgus0828@naver.com | ![iot]({{site.baseurl}}/images/kh.jpg){: width="190" height="255"} |  <b><span style="font-size:250%">설기현(KiHyun Seol)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: seolpark731@gmail.com |
+
+## Alumni
+
+|    |    |
+|:---|:---|
+| ![iot]({{site.baseurl}}/images/hj.jpg){: width="160"; height"195"} | <b><span style="font-size:200%">박희재(Heejae Park)</span></b><br><br> 2022.2: B.S. degree from Depart. of Computer Science and Engineering, SeoulTech <br> 2022.3 - present: M.S. Students  <br> Department of Computer Science and Engineering  <br> **E-MAIL**:  prkhj98@seoultech.ac.kr <br> **Site**: <https://heejaemon123.github.io/> |
+
+<hr style="border:2px solid gray">
 
 <!-- 
 |    |   |  <img width=225/>  |  <img width=225/>  |
