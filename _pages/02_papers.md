@@ -6,7 +6,7 @@ permalink: /02_papers/
 ---
 ## International Journal
 * [J11] N.-N. Dao, N.H. Tu, T.-D. Hoang, T.-H. Nguyen, L.V. Nguyen, K. Lee, L. Park, W. Na, and S. Cho, "A Review on New Technologies in 3GPP Standards for 5G Access and Beyond," *Computer Networks*, 2024.
-* 
+
 * [J10] T.-H. Nguyen, T.P. Truong, A.-T. Tran, N.-N. Dao, L. Park, and S. Cho, "Intelligent Heterogeneous Aerial Edge Computing for Advanced 5G Access," *IEEE Transactions on Network Science and Engineering*, 2024.
 
 * [J09] T.-H. Nguyen, L.V. Nguyen, L.M. Dang, V.T. Hoang, and L. Park, "TD3-based Optimization Framework for RSMA-enhanced UAV-aided Downlink Communications in Remote Areas," *Remote Sensing*, vol. 15, no. 22, 5284, November 2023.
