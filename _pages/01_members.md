@@ -47,7 +47,7 @@ permalink: /01_members/
 
 |    |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/sh.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">소성현(Seonghyeon So)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information Systems Engineering  <br> **E-MAIL**: thtjdgus0828@naver.com |
+| ![iot]({{site.baseurl}}/images/sh.jpg){: width="140"; height="210"} | <b><span style="font-size:200%">소성현(Seonghyeon So)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information Systems Engineering  <br> **E-MAIL**: thtjdgus0828@naver.com |
 
 <hr style="border:2px solid gray">
 
