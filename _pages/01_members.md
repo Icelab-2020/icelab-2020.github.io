@@ -14,7 +14,7 @@ permalink: /01_members/
 
 <hr style="border:2px solid gray">
 
-## Research Professor
+## Former Research Professor
 
 |    |  <img width=400/>  |
 |:---|:---|
