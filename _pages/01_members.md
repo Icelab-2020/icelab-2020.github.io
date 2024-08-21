@@ -38,9 +38,7 @@ permalink: /01_members/
 
 |    |    |    |    |
 |:---|:---|:---|:---|
-| ![iot]({{site.baseurl}}/images/yr.png){: width="140"; height="210"} | <b><span style="font-size:200%">이예린(Yerin Lee)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information 
-
-Systems Engineering  <br> **E-MAIL**: rin17ring@gmail.com |  |  |
+| ![iot]({{site.baseurl}}/images/yr.png){: width="140"; height="210"} | <b><span style="font-size:200%">이예린(Yerin Lee)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information \ Systems Engineering  <br> **E-MAIL**: rin17ring@gmail.com |  |  |
 
 <hr style="border:2px solid gray">
 
