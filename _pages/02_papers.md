@@ -5,6 +5,8 @@ permalink: /02_papers/
 # image: 08.jpg
 ---
 ## International Journal
+* [J12] H. Park, T. Nguyen, and L. Park "An Investigation on Open-RAN Specifications: Use Cases, Security Threats, Requirements, Discussions," *Computer Modeling in Engineering & Sciences*, vol. 141, no. 1, pp. 13-41. 2024.
+  
 * [J11] N.-N. Dao, N.H. Tu, T.-D. Hoang, T.-H. Nguyen, L.V. Nguyen, K. Lee, L. Park, W. Na, and S. Cho, "A Review on New Technologies in 3GPP Standards for 5G Access and Beyond," *Computer Networks*, 2024.
 
 * [J10] T.-H. Nguyen, T.P. Truong, A.-T. Tran, N.-N. Dao, L. Park, and S. Cho, "Intelligent Heterogeneous Aerial Edge Computing for Advanced 5G Access," *IEEE Transactions on Network Science and Engineering*, 2024.
