@@ -7,3 +7,5 @@ tags:   학회
 ---
 
 2024-09-12 ~ 2024-09-14에 진행된 베트남 다낭에서 진행된 2024년도 ICIT 국제 학회에 참석했습니다.
+
+"Intelligence Arcing Failure Diagnosis Using Frequency Component Extraction for IoT Applications" 논문을 투고하였습니다.
