@@ -32,8 +32,6 @@ permalink: /01_members/
 
 ## M.S. Students
 
-|    |    |
-|:---|:---|
 
 
 <hr style="border:2px solid gray">
