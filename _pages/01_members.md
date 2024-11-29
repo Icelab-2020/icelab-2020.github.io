@@ -25,7 +25,7 @@ permalink: /01_members/
 ## Ph.D. Students
 
 |    |    |
-|:---|---:|
+|:---|:---|
 | ![iot]({{site.baseurl}}/images/hj.jpg){: width="160"; height"195"} | <b><span style="font-size:200%">박희재(Heejae Park)</span></b><br><br> 2022.2: B.S. degree from Dept. of CSE, SeoulTech <br> 2024.2: M.S. degree from Dept. of CSE, SeoulTech  <br>  2024.3-present: Ph.D course <br> Research Interests: RIS, Open-RAN  <br> **E-MAIL**:  prkhj98@seoultech.ac.kr  |
 
 <hr style="border:2px solid gray">
