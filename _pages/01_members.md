@@ -43,7 +43,7 @@ permalink: /01_members/
 
 |    |   |    |    |
 |:---|:---|:---|:---|
-| ![iot]({{site.baseurl}}/images/kh.jpg){: width="184" height="235"} |  <b><span style="font-size:200%">설기현(KiHyun Seol)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: seolpark731@gmail.com | ![iot]({{site.baseurl}}/images/yr.png){: width="140"; height="210"} | <b><span style="font-size:200%">이예린(Yerin Lee)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and <br /> Engineering  <br> **E-MAIL**: rin17ring@gmail.com |
+| ![iot]({{site.baseurl}}/images/kh.jpg){: width="140"; height="210"} |  <b><span style="font-size:200%">설기현(KiHyun Seol)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: seolpark731@gmail.com | ![iot]({{site.baseurl}}/images/yr.png){: width="140"; height="210"} | <b><span style="font-size:200%">이예린(Yerin Lee)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and <br /> Engineering  <br> **E-MAIL**: rin17ring@gmail.com |
 
 <!-- 
 |    |    |    |    |
