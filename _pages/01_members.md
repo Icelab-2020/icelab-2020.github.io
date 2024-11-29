@@ -34,7 +34,7 @@ permalink: /01_members/
 
 |    |    |
 |:---|:---|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">위성률(Seongryool Wee)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information Systems Engineering  <br> **E-MAIL**: fbfbf1@naver.com | ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">송승엽(Seungyeop Song)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr |
+| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">위성률(Seongryool Wee)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> Department of Industrial and Information Systems Engineering  <br> **E-MAIL**: fbfbf1@naver.com | ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">송승엽(Seungyeop Song)</span></b><br><br> Undergraduate course in CSE, SeoulTech <br> 2025.2: B.S. degree from Depart. of Computer Science and Engineering, SeoulTech   <br> Department of Computer Science and Engineering  <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr |
 
 
 <hr style="border:2px solid gray">
