@@ -34,7 +34,7 @@ permalink: /01_members/
 
 |    |   |    |    |
 |:---|:---|---:|:---|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">위성률(Seongryool Wee)</span></b><br><br> 2023.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br>  **E-MAIL**: fbfbf1@naver.com <br> [Page](https://sites.google.com/view/seongryoolwee/%ED%99%88) | ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:200%">송승엽(Seungyeop Song)</span></b><br><br> 2025.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr |
+| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:150%">위성률(Seongryool Wee)</span></b><br><br> 2023.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br>  **E-MAIL**: fbfbf1@naver.com <br> [Page](https://sites.google.com/view/seongryoolwee/%ED%99%88) | ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:150%">송승엽(Seungyeop Song)</span></b><br><br> 2025.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr |
 
 
 <hr style="border:2px solid gray">
