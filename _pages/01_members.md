@@ -34,7 +34,7 @@ permalink: /01_members/
 
 |    |   |    |    |
 |:---|:---|---:|:---|
-| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:150%">위성률(Seongryool Wee)</span></b><br><br> 2023.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br>  **E-MAIL**: fbfbf1@naver.com <br> [Page](https://sites.google.com/view/seongryoolwee/%ED%99%88) | ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:150%">송승엽(Seungyeop Song)</span></b><br><br> 2025.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr |
+| ![iot]({{site.baseurl}}/images/sw.jpg){: width="184"; height="248"} | <b><span style="font-size:150%">위성률(Seongryool Wee)</span></b><br><br> 2023.2: B.S. degree from Dept. of IISE and CSE, SeoulTech <br> Research Interests: Open-RAN   <br>  **E-MAIL**: fbfbf1@naver.com <br> [Page](https://sites.google.com/view/seongryoolwee/%ED%99%88) | ![iot]({{site.baseurl}}/images/ss.jpg){: width="184"; height="248"} | <b><span style="font-size:150%">송승엽(Seungyeop Song)</span></b><br><br> 2025.2: B.S. degree from Dept. of CSE, SeoulTech <br> Research Interests: Open-RAN   <br> **E-MAIL**: thdtmdduqdhk@seoultech.ac.kr |
 
 
 <hr style="border:2px solid gray">
@@ -43,7 +43,7 @@ permalink: /01_members/
 
 |    |   |    |    |
 |:---|:---|---:|:---|
-| ![iot]({{site.baseurl}}/images/kh.jpg){: width="140"; height="210"} |  <b><span style="font-size:200%">설기현(KiHyun Seol)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> **E-MAIL**: seolpark731@gmail.com | ![iot]({{site.baseurl}}/images/yr.png){: width="140"; height="210"} | <b><span style="font-size:200%">이예린(Yerin Lee)</span></b><br><br> Undergraduate course in CSE, SeoulTech    <br> **E-MAIL**: rin17ring@gmail.com |
+| ![iot]({{site.baseurl}}/images/kh.jpg){: width="140"; height="210"} |  <b><span style="font-size:200%">설기현(KiHyun Seol)</span></b><br><br> Undergraduate course in CSE and EE, SeoulTech   <br> **E-MAIL**: seolpark731@gmail.com | ![iot]({{site.baseurl}}/images/yr.png){: width="140"; height="210"} | <b><span style="font-size:200%">이예린(Yerin Lee)</span></b><br><br> Undergraduate course in CSE, SeoulTech    <br> **E-MAIL**: rin17ring@gmail.com |
 
 <!-- 
 |    |    |    |    |
