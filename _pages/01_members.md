@@ -60,8 +60,6 @@ permalink: /01_members/
 |:---|:---|---:|:---|
 | ![iot]({{site.baseurl}}/images/sh.jpg){: width="140"; height="210"} | <b><span style="font-size:200%">소성현(Seonghyeon So)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> **E-MAIL**: thtjdgus0828@naver.com | ![iot]({{site.baseurl}}/images/jk.jpg){: width="165" height="235"} |  <b><span style="font-size:200%">김주안(Juan Kim)</span></b><br><br> Undergraduate course in CSE, SeoulTech  <br> **E-MAIL**: rlawndks0423@naver.com |
 
-<hr style="border:2px solid gray">
-
 |    |    |
 |:---|:---|
 | ![iot]({{site.baseurl}}/images/kh.jpg){: width="140"; height="210"} |  <b><span style="font-size:200%">설기현(KiHyun Seol)</span></b><br><br> Undergraduate course in CSE, SeoulTech   <br> **E-MAIL**: seolpark731@gmail.com  |
